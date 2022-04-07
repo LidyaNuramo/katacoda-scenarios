@@ -8,3 +8,9 @@ Visit https://www.katacoda.com/lidyanuramo to view the profile and interactive s
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+
+CLI Download Links
+The CLI is designed to help you create and manage scenarios on Katacoda. More details can be found at npmjs.com/package/katacoda-cli. Use NPM to download and install the CLI with the following command:
+
+npm install katacoda-cli --global
+After the CLI has downloaded, continue to the example of creating your first scenario
