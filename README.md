@@ -14,3 +14,14 @@ The CLI is designed to help you create and manage scenarios on Katacoda. More de
 
 npm install katacoda-cli --global
 After the CLI has downloaded, continue to the example of creating your first scenario
+
+Get Started
+
+        $ katacoda scenarios:create
+        $ git add .
+        $ git commit -m "New scenario"
+        $ git push origin master
+      
+Once the scenario has been pushed you can view it on your profile page https://katacoda.com/lidyanuramo.
+
+For more in-depth documentation, visit our docs section.
